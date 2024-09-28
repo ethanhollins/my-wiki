@@ -6,14 +6,8 @@
 </div> 
 ---
 
-## Subtopic 1: Specific Concept or Feature
-Write your researched commentary on this particular topic here. Ensure to provide valuable insights, concise explanations, and clearly organized content.
-
-- If the information comes from any particular resources (articles, books, videos, etc.), ensure you properly **cite**[^1] your sources.
-- Whenever referencing another page in your wiki, link directly using Obsidian's internal linking system, like so: [[Related Wiki Page]].
-
-### Example Code Snippet
-Whenever relevant, executable example code should be saved in the **examples** folder. Include a snippet of the code that is contextually important, and link to the full file for reference.
+## Testing
+testing
 
 ```Python
 if __name__ == "__main__":

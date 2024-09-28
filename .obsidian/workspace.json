@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44c2474b0099ba74",
+        "id": "5ee1fb26b6cceb90",
         "type": "tabs",
         "children": [
           {
-            "id": "4b05234bfaefd35b",
+            "id": "f08e0d9b6bd6e66b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,10 +150,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b05234bfaefd35b",
+  "active": "f08e0d9b6bd6e66b",
   "lastOpenFiles": [
-    "README.md",
     "wiki/Python/Python.md",
+    "README.md",
     "wiki/Welcome.md",
     "templater/templates/wiki_page.md",
     "templater/scripts/evaluate_page.js",
